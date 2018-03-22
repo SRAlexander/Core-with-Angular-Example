@@ -40,3 +40,14 @@ C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\Ri
 C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfo.cs
 C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.dll
 C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.pdb
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.deps.json
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.runtimeconfig.json
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.runtimeconfig.dev.json
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.dll
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.pdb
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.csprojResolveAssemblyReference.cache
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.csproj.CoreCompileInputs.cache
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfoInputs.cache
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfo.cs
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.dll
+C:\Users\scott.alexander\Development\CoreAng Example\Core-with-Angular-Example\CORE\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.pdb

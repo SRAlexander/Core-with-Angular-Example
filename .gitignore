@@ -5,6 +5,9 @@
 /dist-server
 /tmp
 /out-tsc
+./bin
+./obj
+
 
 # dependencies
 /node_modules
@@ -41,3 +44,19 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+\bin
+\obj
+CORE/.vs/RiderMVCTest/v15/.suo
+CORE/.vs/RiderMVCTest/v15/Server/sqlite3/db.lock
+CORE/.vs/RiderMVCTest/v15/Server/sqlite3/storage.ide
+CORE/.vs/RiderMVCTest/v15/Server/sqlite3/storage.ide-shm
+CORE/.vs/RiderMVCTest/v15/Server/sqlite3/storage.ide-wal
+CORE/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.dll
+CORE/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.pdb
+CORE/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.csproj.FileListAbsolute.txt
+CORE/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.dll
+CORE/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.pdb
+CORE/RiderMVCTest/obj/project.assets.json
+CORE/RiderMVCTest/obj/RiderMVCTest.csproj.nuget.cache
+CORE/RiderMVCTest/obj/RiderMVCTest.csproj.nuget.g.props
