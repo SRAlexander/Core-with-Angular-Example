@@ -1,0 +1,42 @@
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.deps.json
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.runtimeconfig.json
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.runtimeconfig.dev.json
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.dll
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.pdb
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.csproj.CoreCompileInputs.cache
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.AssemblyInfoInputs.cache
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.AssemblyInfo.cs
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.dll
+/Users/scottalexander/Development/RiderMVCTest/RiderMVCTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.pdb
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.deps.json
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.runtimeconfig.json
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.runtimeconfig.dev.json
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.dll
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/bin/Debug/netcoreapp2.0/RiderMVCTest.pdb
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.csproj.CoreCompileInputs.cache
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.AssemblyInfoInputs.cache
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.AssemblyInfo.cs
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.dll
+/Users/scottalexander/Development/RiderMVCTest/ASPCORE2-RiderTest/RiderMVCTest/obj/Debug/netcoreapp2.0/RiderMVCTest.pdb
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.deps.json
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.runtimeconfig.json
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.runtimeconfig.dev.json
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.dll
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.pdb
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.csprojResolveAssemblyReference.cache
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.csproj.CoreCompileInputs.cache
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfoInputs.cache
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfo.cs
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.dll
+C:\Users\scott.alexander\Development\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.pdb
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.deps.json
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.runtimeconfig.json
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.runtimeconfig.dev.json
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.dll
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\bin\Debug\netcoreapp2.0\RiderMVCTest.pdb
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.csprojResolveAssemblyReference.cache
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.csproj.CoreCompileInputs.cache
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfoInputs.cache
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.AssemblyInfo.cs
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.dll
+C:\Users\scott.alexander\Development\Core with Ang Example\ASPCORE2-RiderTest\RiderMVCTest\obj\Debug\netcoreapp2.0\RiderMVCTest.pdb
