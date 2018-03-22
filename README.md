@@ -13,7 +13,9 @@ The angular project is run separately I'd recommend using visual studio code as 
 	- “yarn start” or “npm start” will then run the angular project.
     - Check out the RestService and app.component to see how calls are made to the core service.
 
-
+Resources
+	- Angular: Getting started uses the Angular CLI which is one of the big reasons to code seperatly.
+    - https://app.pluralsight.com/paths/skill/angular
 
 
 
